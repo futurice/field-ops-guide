@@ -215,7 +215,7 @@ Having tests in place reduces the risk of regression. It also makes onboarding n
 
 Hardly ever is there budget for writing tests afterwards, nor do the tests help the development at that point, so make appropriate testing part of your standard mode of operation.
 
-### QUESTION: Are team member contributions continuously peer reviewed?
+### QUESTION: Are the work contributions systematically peer reviewed?
 
 **What is the criteria for "yes"?**
 
@@ -227,7 +227,7 @@ Peer reviewing helps spread the knowledge across the team and validates the qual
 
 **Relevant links:**
 
-### QUESTION: Does the team have a written plan for the system architecture?
+### QUESTION: Does the team have a documented plan for the system architecture?
 
 **What is the criteria for "yes"?**
 
