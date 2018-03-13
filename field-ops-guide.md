@@ -293,6 +293,24 @@ This does not create casualties directly if left undone, but also without the in
 
 Especially in projects where we are delivering a pre-defined scope instead of working as "bandwidth" as part of a Client's project team.
 
+### QUESTION: Have all the relevant technical information been documented and accessible to the Client?
+
+**What is the criteria for "yes"?**
+
+The Client has access to a Minimum Viable Documentation that includes:
+
+- overall architecture description, what parts does the system/delivery consist of
+- list of integrations and dependencies to other systems and third-party services
+- hosting information: list of services including IP addresses and other technical details
+- information on how backups and upgrades are handled
+- other "good to know" type information
+
+**Why is this important?**
+
+Having the basic information available in one place makes it possible to maintain and further develop the system. It prevents vendor lock-in and empowers the Client. Overall, the solution is more robust and fault-tolerant when potentially anyone can understand the big picture and plan changes to how the system works.
+
+It is also easier for new people to join the project and gain an understanding of the whole. Being familiar with different aspects of the system makes it possible to reason about changes and prevents knowledge silos from forming.
+
 ### QUESTION: Is it clear who is in charge of operating the system?
 
 **What is the criteria for "yes"?**
