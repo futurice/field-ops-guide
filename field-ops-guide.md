@@ -15,12 +15,12 @@ _In the beginning of a mission, check all the items on this list, succeed and li
 You will see the word "everyone" mentioned often. Usually there is someone who is paying for the project, internal or external, referred to as the Client. There's someone, preferably a Team, who is delivering the project, and there might be third parties. In this guide _everyone_ means everyone involved. A successful project delivery is victory for everyone.
 
 The checklist items are divided by project phase:
-- [Sales & Negotiation](#sales-negotiation)
+- [Sales & Negotiation](#sales-and-negotiation)
 - [Beginning of a Project](#beginning-of-a-project)
 - [Project Execution](#project-execution)
-- [Final Delivery & Ramp-down](#final-delivery-ramp-down)
+- [Release & Delivery](#release-and-delivery)
 
-## Sales & Negotiation
+## Sales and Negotiation
 
 ### QUESTION: Have the proposal scope & estimates been validated by the experts in that field?
 
@@ -132,6 +132,20 @@ Good situational awareness is the key element of successful execution. If the ta
 **Relevant links:**
 
 * [WoW: Project Progress Monitoring Burndown Chart](https://wow.futurice.com/#/card/project_progress_monitoring_burndown_chart)
+
+### QUESTION: Are communication channels established between stakeholders?
+
+**What is the criteria for "yes"?**
+
+The Team and Client have agreed upon a primary communication channel, e.g. a chatroom where everyone involved in the project has access.
+
+The Team has got the contact information of other relevant parties (preferably met them face-to-face) and is able to reach them on a short notice without the need for a middle-man. This is especially important if there are people responsible for some part of the project delivery outside of the immediate reach of the Team.
+
+**Why is this important?**
+
+Having a shared agreement on the communication channels is a prerequisite for efficient communication, makes things more transparent between parties, and promotes trust. Information is more likely to be shared and less likely to become siloed, and potential worries and problems are brought up earlier. Stakeholders are more likely to stay in sync with each other, and less time and energy is spent on communicating via different channels.
+
+Having met the people you are building the project with makes it easier to communicate textually. Knowing how to reach people even if you are not in contact on a daily basis pays off when quick actions need to be done.
 
 ## Project Execution
 
@@ -261,7 +275,7 @@ This is not only a concern of the tech people in the Team: are the design assets
 
 This does not create casualties directly if left undone, but also without the instructions ramping up the project again after a quiet season in the development can be really painful.
 
-## Final Delivery & Ramp-down
+## Release and Delivery
 
 Especially in projects where we are delivering a pre-defined scope instead of working as "bandwidth" as part of a Client's project team.
 
