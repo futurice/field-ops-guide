@@ -139,7 +139,7 @@ Good situational awareness is the key element of successful execution. If the ta
 
 The Team and Client have agreed upon a primary communication channel, e.g. a chatroom where everyone involved in the project has access.
 
-The Team has got the contact information of other relevant parties (preferably met them face-to-face) and is able to reach them on a short notice without the need for a middle-man. This is especially important if there are people responsible for some part of the project delivery outside of the immediate reach of the Team.
+The Team is aware of, and has got the contact information of other relevant parties or stakeholders (preferably met them face-to-face) and is able to reach them on a short notice without the need for a proxy. This is especially important if there are people responsible for some part of the project delivery outside of the immediate reach of the Team.
 
 **Why is this important?**
 
