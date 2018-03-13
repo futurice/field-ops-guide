@@ -42,13 +42,13 @@ If experts are not consulted when creating the work estimates, there is a higher
 
 **What is the criteria for "yes"?**
 
-Everyone understands the difference between _a concept_ created in SVS projects, _a prototype or a proof-of-concept_, and _a launchable MVP_ of the service. Does everyone understand which of these (or some other goal) we are talking about?
+Everyone, including all relevant stakeholders in the Client organization, knows the type of the expected delivery and its possibilities for further use: is it _a concept_ created in a Service Vision Sprint project, _a prototype or a proof-of-concept_, or _a launchable MVP_ of the service? Does everyone understand which of these (or some other goal) we are talking about?
 
 **Why is this important?**
 
-If tech people are building a throwaway prototype, everyone else needs to understand that it is not suitable as a baseplate for future development. Skyscrapers are not built on the foundations of sand castles. Everyone needs to have a clear image about the expected capabilities of the deliverable, so that they can plan their future projects and investments accordingly. 
+Skyscrapers are not built on the foundations of sand castles. If the Team is building a throwaway prototype, everyone else needs to understand that it is not suitable as a baseplate for future development. Everyone needs to have a clear image about the expected capabilities of the deliverable, so that they can plan their future projects and investments accordingly. 
 
-When everyone understands the difference between the types of planned outcomes, they don't get surprised after the project: _"this isn't the thing we bought, what the hell?"_
+What the end result **does not** do is as important to understand as what it does do. When everyone understands the difference between the types of planned outcomes, they don't get surprised after the project: _"this isn't the thing we bought, what the heck?"_
 
 **Relevant links:**
 
@@ -114,16 +114,6 @@ If the value of the solution is smaller than the cost of solving it, it does not
 **Relevant links:**
 
 * [LSC: Validation](https://leanservicecreation.com/material/p10.pdf)
-
-### QUESTION: Does _everyone_ know what is the final deliverable & what it is used for?
-
-**What is the criteria for "yes"?**
-
-Everyone, including all relevant stakeholders in the Client organization, knows the expected delivery and its possibilities for further use. If it is a prototype built quickly with duct tape & WD-40, it is clear for the Client that it will be burned after this project.
-
-**Why is this important?**
-
-It is to everyone's benefit that the parties have a shared understanding of what the project outcome is, and especially what it is **not** suitable for. Validating a concept with a prototype leads to a different outcome than building a production-grade MVP, and it is only possible to continue building upon the latter.
 
 ### QUESTION: Does everyone know where project tasks are tracked and how progress is updated?
 
