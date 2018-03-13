@@ -54,7 +54,7 @@ What the end result **does not** do is as important to understand as what it doe
 
 * https://wow.futurice.com/#/card/proposal_best_practices
 
-### QUESTION: Have we validated that the problem we are solving is actually worth solving?
+### QUESTION: Has it been validated that the problem is actually worth solving?
 
 **What is the criteria for "yes"?**
 
