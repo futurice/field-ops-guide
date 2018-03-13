@@ -54,6 +54,25 @@ What the end result **does not** do is as important to understand as what it doe
 
 * https://wow.futurice.com/#/card/proposal_best_practices
 
+### QUESTION: Have we validated that the problem we are solving is actually worth solving?
+
+**What is the criteria for "yes"?**
+
+* It is proven (not only by the Client) that the end user has the problem we think they have - i.e. _"this is a problem"_.
+* We know that solving the problem will resonate with the Client **and** the end users - i.e. _"this is a problem worth solving"_.
+
+**Why is this important?**
+
+One of our strengths is that we critically challenge our clients and their ideas for projects. If it seems that doing this project would not create value for the Client, _we have to have the courage to say no to the money offered_ and to try to find an actual problem worth solving. Doing this will strengthen the partnership in the long run.
+
+If the problem is not an actual problem for the end users, doing the project is a total waste and money is best used elsewhere. 
+
+If the value of the solution is smaller than the cost of solving it, it does not make sense to allocate time & money to the project. Remember to _Ask why!_
+
+**Relevant links:**
+
+* [LSC: Validation](https://leanservicecreation.com/material/p10.pdf)
+
 ### QUESTION: Does everyone understand the project contract model?
 
 **What is the criteria for "yes"?**
@@ -96,24 +115,19 @@ When all the people in the project know why we are doing the thing we are doing,
 * [WoW: Kick-off with the Project Team](https://wow.futurice.com/#/card/kick_off_with_the_project_team)
 * [LSC: Business Goals & Limitations -canvas](https://leanservicecreation.com/material/p01.pdf)
 
-### QUESTION: Have we validated that the problem we are solving is actually worth solving?
+### QUESTION: Does everyone understand their role in the project?
 
 **What is the criteria for "yes"?**
 
-* It is proven (not only by the Client) that the end user has the problem we think they have - i.e. _"this is a problem"_.
-* We know that solving the problem will resonate with the Client **and** the end users - i.e. _"this is a problem worth solving"_.
+The Team members know what they are expected to contribute to the project, and how the responsibilities are shared between the different parties involved in the project.
+
+The Client has appointed a Product Owner who is able to prioritize features and make decisions.
 
 **Why is this important?**
 
-One of our strengths is that we critically challenge our clients and their ideas for projects. If it seems that doing this project would not create value for the Client, _we have to have the courage to say no to the money offered_ and to try to find an actual problem worth solving. Doing this will strengthen the partnership in the long run.
+The Team can only assume a responsibility of the project if it is clear for everyone what is expected of them. Having the roles and responsibilities clearly agreed helps the people better understand the scope of their work, which makes it easier to focus on creating impact. It is also easier to identify staffing needs when roles are made explicit instead of implicit.
 
-If the problem is not an actual problem for the end users, doing the project is a total waste and money is best used elsewhere. 
-
-If the value of the solution is smaller than the cost of solving it, it does not make sense to allocate time & money to the project. Remember to _Ask why!_
-
-**Relevant links:**
-
-* [LSC: Validation](https://leanservicecreation.com/material/p10.pdf)
+The availability of proper ownership from the Client's side can make or break the project. Being in frequent contact with a PO enables the team to concentrate on the right things, gives direction and motivates people. The PO also makes communication more efficient by bridging the Team with different facets of the Client organization.
 
 ### QUESTION: Does everyone know where project tasks are tracked and how progress is updated?
 
