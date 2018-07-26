@@ -4,41 +4,19 @@
 
 _In the beginning of a mission, check all the items on this list, succeed and live to see another adventure. However, if the mission situation gets critical, start eating this guide from the first section towards the last. Just remember to read & comprehend the pages before consuming them._
 
-**Criteria for adding items to this checklist**
-
-* you or someone else has bled or was injured because the issue addressed by the checklist question was not taken into account
-* you can clearly answer "yes" or "no" to the question - there should be only little to no amount of room for interpretation
-* you can explain why it is important
-
-**Who is _everyone_?**
-
-You will see the word "everyone" mentioned often. Usually there is someone who is paying for the project, internal or external, referred to as the Client. There's someone, preferably a Team, who is delivering the project, and there might be third parties. In this guide _everyone_ means everyone involved. A successful project delivery is victory for everyone.
-
-The checklist items are divided by project phase:
-- [Sales & Negotiation](#sales-and-negotiation)
-- [Beginning of a Project](#beginning-of-a-project)
-- [Project Execution](#project-execution)
-- [Release & Delivery](#release-and-delivery)
-
 ## Sales and Negotiation
 
-### QUESTION: Have the proposal scope & estimates been validated by the experts in that field?
+### Have the proposal scope & estimates been validated by the experts in that field?
 
 **What is the criteria for "yes"?**
 
-The work estimates presented in the proposal have been validated by someone whose skillset matches the job.
-
-For example, the amount of design work needed has been checked by an actual designer - preferably someone whose CV is in the Proposal. The same applies for the implementation estimates & the tech competency.
+The work estimates presented in the proposal have been validated by someone whose skillset matches the job. For example, the amount of design work needed has been checked by an actual designer - preferably someone whose CV is in the Proposal. The same applies for the implementation estimates & the tech competency.
 
 **Why is this important?**
 
-If experts are not consulted when creating the work estimates, there is a higher risk that the estimates do not reflect the actual needs of the project. When you validate the estimates - or even better, co-create them - with the experts that might actually be working on the project, you lower the risk of creating impossible deadlines or making it difficult for the project to achieve satisfactory results.
+If experts are not consulted when creating the work estimates, there is a higher risk that the estimates do not reflect the actual needs of the project. Ideally the estimates should be co-created with the experts that would likely be working on the project, lowering the risk of creating impossible deadlines or making it difficult for the project to achieve satisfactory results.
 
-**Relevant links**
-
-* https://wow.futurice.com/#/card/proposal_best_practices
-
-### QUESTION: Does everyone understand what are the expected Deliverable(s)?
+### Does everyone understand what are the expected Deliverable(s)?
 
 **What is the criteria for "yes"?**
 
@@ -46,46 +24,33 @@ Everyone, including all relevant stakeholders in the Client organization, knows 
 
 **Why is this important?**
 
-Skyscrapers are not built on the foundations of sand castles. If the Team is building a throwaway prototype, everyone else needs to understand that it is not suitable as a baseplate for future development. Everyone needs to have a clear image about the expected capabilities of the deliverable, so that they can plan their future projects and investments accordingly. 
+Skyscrapers are not built on the foundations of sand castles. If the Team is building a throwaway prototype, everyone else needs to understand that it is not suitable as the basis for future development. Everyone needs to have a clear image about the expected capabilities of the deliverable, so that they can plan their future projects and investments accordingly.
 
 What the end result **does not** do is as important to understand as what it does do. When everyone understands the difference between the types of planned outcomes, they don't get surprised after the project: _"this isn't the thing we bought, what the heck?"_
 
-**Relevant links:**
-
-* https://wow.futurice.com/#/card/proposal_best_practices
-
-### QUESTION: Has it been validated that the problem is actually worth solving?
+### Has it been validated that the problem is actually worth solving?
 
 **What is the criteria for "yes"?**
 
-* It is proven (not only by the Client) that the end user has the problem we think they have - i.e. _"this is a problem"_.
-* We know that solving the problem will resonate with the Client **and** the end users - i.e. _"this is a problem worth solving"_.
+It is proven (not only by the Client) that the end user has the problem we think they have - i.e. _"this is a problem"_. We also know that solving the problem will resonate with the Client **and** the end users - i.e. _"this is a problem worth solving"_.
 
 **Why is this important?**
 
-One of our strengths is that we critically challenge our clients and their ideas for projects. If it seems that doing this project would not create value for the Client, _we have to have the courage to say no to the money offered_ and to try to find an actual problem worth solving. Doing this will strengthen the partnership in the long run.
+If it seems that doing this project would not create value for the Client, _we have to have the courage to say no to the money offered_ and to try to find an actual problem worth solving. Doing this will strengthen the partnership in the long run.
 
-If the problem is not an actual problem for the end users, doing the project is a total waste and money is best used elsewhere. 
+If the problem is not an actual problem for the end users, doing the project is a total waste and money is best used elsewhere. If the value of the solution is smaller than the cost of solving it, it does not make sense to allocate time & money to the project. Remember to _Ask why!_
 
-If the value of the solution is smaller than the cost of solving it, it does not make sense to allocate time & money to the project. Remember to _Ask why!_
-
-**Relevant links:**
-
-* [LSC: Validation](https://leanservicecreation.com/material/p10.pdf)
-
-### QUESTION: Does everyone understand the project contract model?
+### Does everyone understand the project contract model?
 
 **What is the criteria for "yes"?**
 
-It is clear for everyone whether the project is _time & material_ or if it is _fixed price & scope_ - or something else.
-
-If the model is _time & material_, does everyone, especially the Client, understand that none of the features are guaranteed simply by the contract?
+It is clear for everyone whether the project is _time & material_ or if it is _fixed price & scope_ - or something else. If the model is _time & material_, does everyone, especially the Client, understand that none of the features are guaranteed simply by the contract?
 
 **Why is this important?**
 
 If this is unclear for either of the sides, you might end up in a difficult situation where it's not obvious what has or hasn't been agreed upon, and committed to, in any point of the project. Expectation management!
 
-### QUESTION: Does everyone have a shared assumption of the recognizable major risks in the project?
+### Does everyone have a shared assumption of the recognizable major risks in the project?
 
 **What is the criteria for "yes"?**
 
@@ -97,25 +62,17 @@ You have to map the major risks in order to be prepared for them. When both part
 
 ## Beginning of a Project
 
-### QUESTION: Does _everyone_ know why we are doing this project?
+### Does _everyone_ know why we are doing this project?
 
 **What is the criteria for "yes"?**
 
-Everyone - including project team and **all** the stakeholders in Client organization - knows why this project is done. If you ask anyone they will give you the same answer directly.
-
-Is this project being done e.g. because of legislation, is the Client trying to build new business, or why exactly?
+Everyone - including project team and **all** the stakeholders in Client organization - knows why this project is done. If you ask anyone they will give you the same answer directly. Is this project being done e.g. because of legislation, is the Client trying to build new business, or why exactly?
 
 **Why is this important?**
 
 When all the people in the project know why we are doing the thing we are doing, everyone is able to make decisions that help push the project to a glorious outcome.
 
-**Relevant links:**
-
-* [WoW: Kick-off with Customer](https://wow.futurice.com/#/card/kick_off_with_customer)
-* [WoW: Kick-off with the Project Team](https://wow.futurice.com/#/card/kick_off_with_the_project_team)
-* [LSC: Business Goals & Limitations -canvas](https://leanservicecreation.com/material/p01.pdf)
-
-### QUESTION: Does everyone understand their role in the project?
+### Does everyone understand their role in the project?
 
 **What is the criteria for "yes"?**
 
@@ -129,7 +86,7 @@ The Team can only assume a responsibility of the project if it is clear for ever
 
 The availability of proper ownership from the Client's side can make or break the project. Being in frequent contact with a PO enables the team to concentrate on the right things, gives direction and motivates people. The PO also makes communication more efficient by bridging the Team with different facets of the Client organization.
 
-### QUESTION: Does everyone know where project tasks are tracked and how progress is updated?
+### Does everyone know where project tasks are tracked and how progress is updated?
 
 **What is the criteria for "yes"?**
 
@@ -143,11 +100,7 @@ Everyone knows how the tracking process works and how they can update the status
 
 Good situational awareness is the key element of successful execution. If the task statuses in the project management tool don't match the reality, it leads to false conclusions of the situation.
 
-**Relevant links:**
-
-* [WoW: Project Progress Monitoring Burndown Chart](https://wow.futurice.com/#/card/project_progress_monitoring_burndown_chart)
-
-### QUESTION: Are communication channels established between stakeholders?
+### Are communication channels established between stakeholders?
 
 **What is the criteria for "yes"?**
 
@@ -157,7 +110,7 @@ The Team is aware of, and has got the contact information of other relevant part
 
 **Why is this important?**
 
-Having a shared agreement on the communication channels is a prerequisite for efficient communication, makes things more transparent between parties, and promotes trust. Information is more likely to be shared and less likely to become siloed, and potential worries and problems are brought up earlier. Stakeholders are more likely to stay in sync with each other, and less time and energy is spent on communicating via different channels.
+Having a shared agreement on the communication channels is a prerequisite for efficient communication, makes things more transparent between parties, and promotes trust. Information is more likely to be shared and less likely to become siloed, and potential worries and problems are brought up earlier. Fewer and clearer communication channels helps people stay in sync.
 
 Having met the people you are building the project with makes it easier to communicate textually. Knowing how to reach people even if you are not in contact on a daily basis pays off when quick actions need to be done.
 
@@ -165,17 +118,17 @@ Having met the people you are building the project with makes it easier to commu
 
 Minimum frequency for asking these questions is _every week_.
 
-### QUESTION: Does everyone know possible hard deadlines & why they exist?
+### Does everyone know possible hard deadlines & why they exist?
 
 **What is the criteria for "yes"?**
 
-Everyone has a shared understanding about deadlines that **must** be met. Emphasis on the word "must" - we have to know what are the actual _hard deadlines_ (such as a big advertisement campaign for the product starting next month) and which of the deadlines are _soft deadlines_ (such as the product owner having a holiday and it'd be nice to have the thing completed before that). What are the consequences of missing the deadline?
+Everyone has a shared understanding about deadlines that **must** be met, and knows what are the  actual _hard deadlines_ (such as a big advertisement campaign for the product starting next month) and which are _soft deadlines_ (such as the product owner having a holiday and it'd be nice to have the thing completed before that). What are the consequences of missing the deadline?
 
 **Why is this important?**
 
 Hard deadlines affect how the product owner and the project team should prioritize tasks and raise flags early if need be. It helps to know what things are essential for a successful execution.
 
-### QUESTION: Does everyone know how much time & budget is left?
+### Does everyone know how much time & budget is left?
 
 **What is the criteria for "yes"?**
 
@@ -190,11 +143,7 @@ In order to plan your work efficiently and the level of detail where you can ope
 
 When you know the available budget, you can more easily prioritize what will be done and what will be left out.
 
-**Relevant links:**
-
-* [WoW: Project Progress Monitoring Burndown Chart](https://wow.futurice.com/#/card/project_progress_monitoring_burndown_chart)
-
-### QUESTION: Does the Team have a reasoned estimate about the remaining amount of work?
+### Does the Team have a reasoned estimate about the remaining amount of work?
 
 **What is the criteria for "yes"?**
 
@@ -206,13 +155,9 @@ If the Team does not know how many tasks they have and how much work delivering 
 
 If you don't know how much work is left, you can't efficiently say no to new requests made by the Client since you don't know how much flexibility you have available on your delivery capability.
 
-It is common for developers to think that _"yeah of course we can deliver this, let's just code harder, should be doable"_, but if as a team you don't have an estimate at all about the remaining work to be done, it can be hard to realize that you actually might already be in trouble and only going deeper. Quite often the Client would happily take no for an answer if that is the reality.
+It is common for developers to be optimistic: _"yeah of course we can deliver this, let's just code harder"_, but if as a team you don't have an estimate at all about the remaining work to be done, it can be hard to realize that you actually might already be in trouble and only going deeper. Quite often the Client would happily take no for an answer if that is the reality.
 
-**Relevant links:**
-
-* [WoW: Project Progress Monitoring Burndown Chart](https://wow.futurice.com/#/card/project_progress_monitoring_burndown_chart)
-
-### QUESTION: Does the Team continuously write, update and run tests?
+### Does the Team continuously write, update and run tests?
 
 **What is the criteria for "yes"?**
 
@@ -227,7 +172,7 @@ Having tests in place reduces the risk of regression. It also makes onboarding n
 
 Hardly ever is there budget for writing tests afterwards, nor do the tests help the development at that point, so make appropriate testing part of your standard mode of operation.
 
-### QUESTION: Are the work contributions systematically peer reviewed?
+### Are the work contributions systematically peer reviewed?
 
 **What is the criteria for "yes"?**
 
@@ -237,7 +182,7 @@ Designs & code are continuously peer reviewed before passing them forward. Every
 
 Peer reviewing helps spread the knowledge across the team and validates the quality of solutions. It increases the possibility of detecting issues early when it's still cheaper to address them.
 
-### QUESTION: Does the Team have a documented plan for the system architecture?
+### Does the Team have a documented plan for the system architecture?
 
 **What is the criteria for "yes"?**
 
@@ -245,21 +190,19 @@ The Team has a rough documented plan about the architecture of the solution. It 
 
 **Why is this important?**
 
-Changing the architechture afterwards is _really_ expensive and burdensome. When you plan the architecture beforehand, you can iterate & validate it more easily and more cheaply. Good well-thought-out architecture makes it easier to reason about solution ideas, much easier to understand how the system works, and it should also make it easier and cheaper to implement new features in the late game. Simplicity, structure, responsibilities.
+Changing the architechture afterwards is _really_ expensive and burdensome. When you plan the architecture beforehand, you can iterate & validate it more easily and more cheaply. Good well-thought-out architecture makes it easier to reason about solution ideas, much easier to understand how the system works, and should also make it easier and cheaper to implement new features in the late game. Simplicity, structure, responsibilities.
 
-### QUESTION: Does all the produced code follow the same style conventions?
+### Does all the produced code follow the same style conventions?
 
 **What is the criteria for "yes"?**
 
-When you look at the code written in the project you don't know which team member has written it. The coding style and the way to structure code is the same between the developers.
-
-When choosing the code style for the project also look beyond the project itself and preferably pick a style that is framework, platform or language style and follow these standards.
+When you look at the code written in the project you don't know which team member has written it. The coding style and the way to structure code is the same between the developers. When choosing the code style for the project, also look beyond the project itself and preferably pick a style that is framework, platform or language style and follow these standards.
 
 **Why is this important?**
 
 It is easier to understand each others' code when the style is identical - you don't have to switch between "style contexts" all the time when browsing the code. It is faster to write new code when you don't have to think about how the code should look like, and it is easier to reason about the style in peer reviews - it's not my style or your style, it's just the well thought (project!) style of the code. With the right tools, you can conveniently automate this and make it a non-issue.
 
-### QUESTION: Does everyone have the same situation awareness?
+### Does everyone have the same situation awareness?
 
 **What is the criteria for "yes"?**
 
@@ -273,13 +216,11 @@ Keeping bad news under the radar harms the project execution. You can't mitigate
 
 Continuously sharing the situational awareness between the Client and the project team creates transparency & an atmosphere where surprises can be flagged easily and escalated further when there is a need to do so.
 
-### QUESTION: Can a new team member get started without help from current project team?
+### Can a new team member get started without help from current project team?
 
 **What is the criteria for "yes"?**
 
-New project member can jump to the team by looking at _written down instructions_ on how to setup the working environment, preferably as a README.md on the "front page" of the project repository.
-
-Furthermore, the setup process should be automated to as near to a "one-click experience" as possible.
+New project member can jump to the team by looking at _written down instructions_ on how to setup the working environment, preferably as a README.md on the "front page" of the project repository. Furthermore, the setup process should be automated to as near to a "one-click experience" as possible.
 
 **Why is this important?**
 
@@ -293,7 +234,7 @@ This does not create casualties directly if left undone, but also without the in
 
 Especially in projects where we are delivering a pre-defined scope instead of working as "bandwidth" as part of a Client's project team.
 
-### QUESTION: Have all the relevant technical information been documented and accessible to the Client?
+### Have all the relevant technical information been documented and accessible to the Client?
 
 **What is the criteria for "yes"?**
 
@@ -311,7 +252,7 @@ Having the basic information available in one place makes it possible to maintai
 
 It is also easier for new people to join the project and gain an understanding of the whole. Being familiar with different aspects of the system makes it possible to reason about changes and prevents knowledge silos from forming.
 
-### QUESTION: Is it clear who is in charge of operating the system?
+### Is it clear who is in charge of operating the system?
 
 **What is the criteria for "yes"?**
 
@@ -323,7 +264,7 @@ There is a contact point to these people if someone else notices something weird
 
 If no-one is in charge of the system and it happens to go down, we would only have an ad-hoc "hopefully the sales dude/tte answers their phone" procedure for getting the system back online. Some valuable operation time in production might be lost and end users could get pissed.
 
-### QUESTION: Does someone get an automatic notification if something is wrong with the live system?
+### Does someone get an automatic notification if something is wrong with the live system?
 
 **What is the criteria for "yes"?**
 
@@ -333,7 +274,7 @@ There are automatic checks in place that notify the persons responsible for moni
 
 Without automatic checks in place failures could go unnoticed for long periods of time and could cause low service utilization, lost ROI or angry end users who are unable to use the system.
 
-### QUESTION: Are all the running expenses handled by the Client?
+### Are all the running expenses handled by the Client?
 
 **What is the criteria for "yes"?**
 
@@ -341,6 +282,6 @@ When active project development mode is over, all running expenses are handled d
 
 **Why is this important?**
 
-Not only might charges like these annually generate thousands of euros worth of expenses, but manually proxying them to another party to be paid also causes wasteful administrative overhead.
+Not only might charges like these annually generate thousands of euros worth of expenses, but manually proxying them to another party to be paid also causes administrative overhead.
 
-Also as credit cards do have an expiration date, when they do expire, the notification of the expiration is not sent to the credit card holder but to the contact point in the account for the service in question. To avoid any easily avoidable downtime in the services, the responsibility of the running costs should be where the direct interest for keeping the service up is - the Client.
+When credit cards expire (and they do), the credit card holder might not even be aware of it. To avoid any easily avoidable downtime in the services, the responsibility of the running costs should be where the direct interest for keeping the service up is - the Client.
