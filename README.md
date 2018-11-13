@@ -35,7 +35,7 @@ Also thanks for the support to Kalle Aaltonen, Kari-Pekka Koljonen, Jari Suksi, 
 
 These were the specs used to order the booklets from bookblock.com. We did a pilot batch of 150 copies to get initial feedback and feel for the printing quality.
 
-Find the contents used in the order in  [bookblock-print-2018-10]().
+Find the contents used in the order in [bookblock-print-2018-10](bookblock-print-2018-10).
 
 ![Bookblock pilot order specs](https://github.com/futurice/field-ops-guide/raw/master/bookblock-order-specs-2018-10.png "The order made to bookblock.com on October 2018")
 
