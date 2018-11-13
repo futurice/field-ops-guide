@@ -25,11 +25,11 @@ The work started as part of the Tampere Tech Vision Working Group in late 2017, 
 
 ### Team
 
-The content was compiled and written by Miro Nieminen, Antti Partanen, Sakari Hyöty and Mike Arvela.
+The content was compiled and written by [Miro Nieminen](https://github.com/miro), Antti Partanen, [Sakari Hyöty](https://github.com/shyoty) and [Mike Arvela](https://github.com/mieky).
 
 The first pilot print (2018-10) was compiled by Mike and ordered from bookblock.com by Ella Eiranto. Ella also did all the hard design work for getting it to look superb!
 
-Also thanks for the support to Jari Suksi, Kalle Aaltonen, Kari-Pekka Koljonen, Riku Valtasola & Osmo Haapaniemi.
+Also thanks for the support to Kalle Aaltonen, Kari-Pekka Koljonen, Jari Suksi, Riku Valtasola & Osmo Haapaniemi.
 
 ## How to order
 
