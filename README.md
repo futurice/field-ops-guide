@@ -44,7 +44,7 @@ Find the contents used in the order in [bookblock-print-2018-10](bookblock-print
 
 ## Contributing
 
-The Field Ops Guide is open source, licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. Issues and pull requests are most welcome!
+The Field Ops Guide is free and open source. Issues and pull requests are most welcome!
 
 [<img alt="The Chilicorn" src="http://spiceprogram.org/assets/img/chilicorn_sticker.svg" width="250" height="250">](https://spiceprogram.org/oss-sponsorship)
 
