@@ -1,6 +1,4 @@
-# field-ops-guide
-
-_The Field Ops Guide_ is a booklet that makes it possible to survive a software development project. It's a distillation of years of wisdom gathered working in client projects.
+**The Field Ops Guide** is a booklet that makes it possible to survive a software development project. It's a distillation of years of wisdom gathered working in client projects.
 
 <img src="https://github.com/futurice/field-ops-guide/raw/master/field-ops-guide-at-hand.jpg" alt="The Futurice Field Ops Guide" title="The Futurice Field Ops Guide!" width="300">
 
