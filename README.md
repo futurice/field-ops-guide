@@ -2,9 +2,11 @@
 
 _The Field Ops Guide_ is a booklet that makes it possible to survive a software development project. It's a distillation of years of wisdom gathered working in client projects.
 
+![The Futurice Field Ops Guide, live](https://github.com/futurice/field-ops-guide/raw/master/field-ops-guide-at-hand.jpg "The Futurice Field Ops Guide!")
+
 Design criteria:
 - helps save human lives
-- fits your pocket: not too thick, not too rigid
+- fits your pocket: not too thick, not too rigid (~A6 size)
 - combines a guide and a notebook in one, making it multi-purpose
 - should contain the most important things, and *only* the most important things
 - usable by anyone in a client project
@@ -39,4 +41,4 @@ Find the contents used in the order in  [bookblock-print-2018-10]().
 
 ## License
 
-This repository, along with the Field Ops Guide and its contents arelicensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+This repository, along with the Field Ops Guide and its contents are licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
