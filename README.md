@@ -24,15 +24,17 @@ Future ideas:
 
 In military and aviation, similar checklists are used to avoid total catastrophes. A few folks from Futurice Tampere office got interested about the idea of doing a similar "field ops guide" that might just be enable a person to work in a challenging software project and live to tell stories about it.
 
-The work started as part of the Tampere Tech Vision Working Group in late 2017, and the first version finally came out of print in late 2018 (phew!)
+We decided on a format that asks a number of questions per project phase. One should be able to answer each question with a "yes", or fail to do so only on purpose and with good reasoning.
+
+The work started as part of the Tammerforce Tech Vision Working Group in late 2017, and the first version finally came out of print in late 2018 (phew!)
 
 ### Team
 
-The content was compiled and written by [Miro Nieminen](https://github.com/miro), Antti Partanen, [Sakari Hyöty](https://github.com/shyoty) and [Mike Arvela](https://github.com/mieky).
+The content was compiled and written by [Miro Nieminen](https://github.com/miro), Antti Partanen, [Sakari Hyöty](https://github.com/shyoty) and [Mike Arvela](https://github.com/mieky), with additional ideas and feedback gathered from colleagues.
 
-The first pilot print (2018-10) was compiled by Mike and ordered from bookblock.com by Ella Eiranto. Ella also did all the hard design work for getting it to look superb!
+The first pilot print (2018-10) was compiled by Mike and ordered from bookblock.com by Ella Eiranto. Ella also did all the hard design work for getting it to look superb.
 
-Also thanks for the support to Kalle Aaltonen, Kari-Pekka Koljonen, Jari Suksi, Riku Valtasola & Osmo Haapaniemi.
+Also thanks for the support to Kalle Aaltonen, Kari-Pekka Koljonen, Jari Suksi, Riku Valtasola & Osmo Haapaniemi and all the others for their valuable input.
 
 ## How to order
 
@@ -41,6 +43,8 @@ These were the specs used to order the booklets from bookblock.com. We did a pil
 Find the contents used in the order in [bookblock-print-2018-10](bookblock-print-2018-10).
 
 ![Bookblock pilot order specs](https://github.com/futurice/field-ops-guide/raw/master/bookblock-order-specs-2018-10.png "The order made to bookblock.com on October 2018")
+
+For the next order, it might make sense to try a soft cover binding and a thicker 100g paper, which will increase the price a bit. If a rubber band gets added on the cover, the cover elements need to be tweaked accordingly.
 
 ## Contributing
 
