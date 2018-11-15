@@ -7,7 +7,12 @@
 
 <img src="https://github.com/futurice/field-ops-guide/raw/master/field-ops-guide-at-hand.jpg" alt="The Futurice Field Ops Guide" title="The Futurice Field Ops Guide!" width="300">
 
-[Download single-file PDF](field-ops-guide.pdf) for convenient on-screen reading.
+## Downloads
+
+- [PDF](dist/field-ops-guide.pdf) for convenient on-screen reading
+- [EPUB](dist/field-ops-guide.epub) and [Mobi](dist/field-ops-guide.mobi), for e-book readers
+
+Kindle users, the Mobi should be your best option.
 
 ## Design criteria
 
@@ -38,6 +43,16 @@ The content was compiled and written by [Miro Nieminen](https://github.com/miro)
 The first pilot print (2018-10) was compiled by Mike and ordered from bookblock.com by Ella Eiranto. Ella also did all the hard design work for getting it to look superb.
 
 Also thanks for the support to Kalle Aaltonen, Kari-Pekka Koljonen, Jari Suksi, Riku Valtasola & Osmo Haapaniemi and all the others for their valuable input.
+
+## How to convert to epub
+
+To convert Markdown to EPUB, run [pandoc](https://pandoc.org/) with something like this:
+
+`pandoc --toc --toc-depth=3 --epub-cover-image="src/field-ops-guide-cover.jpg" -o dist/field-ops-guide.epub src/field-ops-guide.md`
+
+To further convert EPUB to MOBI, run [kindlegen](https://www.amazon.com/gp/feature.html?ie=UTF8&docId=1000765211):
+
+`kindlegen dist/field-ops-guide.epub`
 
 ## How to order
 

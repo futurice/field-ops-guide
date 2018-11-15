@@ -1,3 +1,8 @@
+---
+title: "Field Ops Guide"
+author: "Futurice"
+---
+
 # Field Ops Guide
 
 ## Mission Briefing
