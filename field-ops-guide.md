@@ -1,8 +1,10 @@
-# Field Ops Guide
+≤# Field Ops Guide
 
 ## Mission Briefing
 
-_In the beginning of a mission, check all the items on this list, succeed and live to see another adventure. However, if the mission situation gets critical, start eating this guide from the first section towards the last. Just remember to read & comprehend the pages before consuming them._
+_In the beginning of a mission, check all the items on this list, succeed and live to see another adventure. You should be able to answer **yes** to each of the following questions, and only say **no** with a good reason._
+
+_However, if the mission situation gets critical, start eating this guide from the first section towards the last. Just remember to read & comprehend the pages before consuming them._
 
 ## Sales and Negotiation
 
@@ -36,7 +38,7 @@ It is proven (not only by the Client) that the end user has the problem we think
 
 **Why is this important?**
 
-If it seems that doing this project would not create value for the Client, _we have to have the courage to say no to the money offered_ and to try to find an actual problem worth solving. Doing this will strengthen the partnership in the long run.
+If it seems that doing this project would not create value for the Client, _we have to have the courage to say no_ to the money offered and to try to find an actual problem worth solving. Doing this will strengthen the partnership in the long run.
 
 If the problem is not an actual problem for the end users, doing the project is a total waste and money is best used elsewhere. If the value of the solution is smaller than the cost of solving it, it does not make sense to allocate time & money to the project. Remember to _Ask why!_
 
@@ -82,7 +84,7 @@ The Client has appointed a Product Owner who is able to prioritize features and 
 
 **Why is this important?**
 
-The Team can only assume a responsibility of the project if it is clear for everyone what is expected of them. Having the roles and responsibilities clearly agreed helps the people better understand the scope of their work, which makes it easier to focus on creating impact. It is also easier to identify staffing needs when roles are made explicit instead of implicit.
+The Team can only assume a responsibility of the project if it is clear for everyone what is expected of them. Having the roles and responsibilities clearly agreed helps the people better understand the scope of their work, which makes it easier to focus on _creating impact_. It is also easier to identify staffing needs when roles are made explicit instead of implicit.
 
 The availability of proper ownership from the Client's side can make or break the project. Being in frequent contact with a PO enables the team to concentrate on the right things, gives direction and motivates people. The PO also makes communication more efficient by bridging the Team with different facets of the Client organization.
 
@@ -155,7 +157,7 @@ If the Team does not know how many tasks they have and how much work delivering 
 
 If you don't know how much work is left, you can't efficiently say no to new requests made by the Client since you don't know how much flexibility you have available on your delivery capability.
 
-It is common for developers to be optimistic: _"yeah of course we can deliver this, let's just code harder"_, but if as a team you don't have an estimate at all about the remaining work to be done, it can be hard to realize that you actually might already be in trouble and only going deeper. Quite often the Client would happily take no for an answer if that is the reality.
+It is common for developers to be optimistic, but if as a team you don't have an estimate at all about the remaining work to be done, it can be hard to realize that you actually _might already be in trouble_ and only going deeper. Quite often the Client would happily take no for an answer if that is the reality.
 
 ### Does the Team continuously write, update and run tests?
 
@@ -190,7 +192,7 @@ The Team has a rough documented plan about the architecture of the solution. It 
 
 **Why is this important?**
 
-Changing the architechture afterwards is _really_ expensive and burdensome. When you plan the architecture beforehand, you can iterate & validate it more easily and more cheaply. Good well-thought-out architecture makes it easier to reason about solution ideas, much easier to understand how the system works, and should also make it easier and cheaper to implement new features in the late game. Simplicity, structure, responsibilities.
+Changing the architechture afterwards is really expensive and burdensome. When you plan the architecture beforehand, you can iterate & validate it more easily and more cheaply. A well-thought-out architecture makes it easier to reason about solution ideas, much easier to understand how the system works, and should also make it easier and cheaper to implement new features in the late game.
 
 ### Does all the produced code follow the same style conventions?
 
@@ -200,7 +202,7 @@ When you look at the code written in the project you don't know which team membe
 
 **Why is this important?**
 
-It is easier to understand each others' code when the style is identical - you don't have to switch between "style contexts" all the time when browsing the code. It is faster to write new code when you don't have to think about how the code should look like, and it is easier to reason about the style in peer reviews - it's not my style or your style, it's just the well thought (project!) style of the code. With the right tools, you can conveniently automate this and make it a non-issue.
+It is easier to understand each others' code when the style is identical - you don't have to switch between "style contexts" all the time when browsing the code. It is faster to write new code when you _don't have to think_ about how the code should look like, and it is easier to reason about the style in peer reviews - it's not my style or your style, it's just the well thought (project!) style of the code. With the right tools, you can conveniently automate this and make it a non-issue.
 
 ### Does everyone have the same situation awareness?
 
@@ -208,13 +210,13 @@ It is easier to understand each others' code when the style is identical - you d
 
 The Team is not hiding anything from the Client - and vice versa. All unpleasant surprises are shared between both parties.
 
-It is not enough that you have a clear situation presented in the project management tool if everyone is not _actively_ using the tool.
+It is not enough that you have a clear situation presented in the project management tool if everyone is not actively using the tool.
 
 **Why is this important?**
 
 Keeping bad news under the radar harms the project execution. You can't mitigate things you are not aware of. It is always easier to deliver a small piece of bad news early than it is to attempt to hide it only to see it surface later.
 
-Continuously sharing the situational awareness between the Client and the project team creates transparency & an atmosphere where surprises can be flagged easily and escalated further when there is a need to do so.
+Continuously sharing the situational awareness between the Client and the project team creates _transparency_ & an atmosphere where surprises can be flagged easily and escalated further when there is a need to do so.
 
 ### Can a new team member get started without help from current project team?
 
@@ -228,17 +230,17 @@ If these things have not been written down but are only in the minds of the curr
 
 This is not only a concern of the tech people in the Team: are the design assets & materials available in a designated place where a new designer can pick them up and start working?
 
-This does not create casualties directly if left undone, but also without the instructions ramping up the project again after a quiet season in the development can be really painful.
+Resuming work on the project after a quiet season is an order of magnitude easier with proper instructions in place.
 
 ## Release and Delivery
 
-Especially in projects where we are delivering a pre-defined scope instead of working as "bandwidth" as part of a Client's project team.
+Especially important in projects where we are delivering a pre-defined scope instead of working as "bandwidth" as part of a Client's project team.
 
 ### Have all the relevant technical information been documented and accessible to the Client?
 
 **What is the criteria for "yes"?**
 
-The Client has access to a Minimum Viable Documentation that includes:
+The Client has access to a _Minimum Viable Documentation_ that includes:
 
 - overall architecture description, what parts does the system/delivery consist of
 - list of integrations and dependencies to other systems and third-party services
@@ -248,7 +250,7 @@ The Client has access to a Minimum Viable Documentation that includes:
 
 **Why is this important?**
 
-Having the basic information available in one place makes it possible to maintain and further develop the system. It prevents vendor lock-in and empowers the Client. Overall, the solution is more robust and fault-tolerant when potentially anyone can understand the big picture and plan changes to how the system works.
+Having the basic information available in one place makes it possible to maintain and further develop the system. It prevents vendor lock-in and empowers the Client. Overall, the solution is more _robust and fault-tolerant_ when potentially anyone can understand the big picture and plan changes to how the system works.
 
 It is also easier for new people to join the project and gain an understanding of the whole. Being familiar with different aspects of the system makes it possible to reason about changes and prevents knowledge silos from forming.
 
@@ -256,7 +258,7 @@ It is also easier for new people to join the project and gain an understanding o
 
 **What is the criteria for "yes"?**
 
-There is a defined person/group of persons who has the responsibility of monitoring the health & status of the system.
+There is a defined person/group of persons who has the responsibility of _monitoring_ the health & status of the system.
 
 There is a contact point to these people if someone else notices something weird in the system.
 
@@ -284,4 +286,4 @@ When active project development mode is over, all running expenses are handled d
 
 Not only might charges like these annually generate thousands of euros worth of expenses, but manually proxying them to another party to be paid also causes administrative overhead.
 
-When credit cards expire (and they do), the credit card holder might not even be aware of it. To avoid any easily avoidable downtime in the services, the responsibility of the running costs should be where the direct interest for keeping the service up is - the Client.
+When credit cards expire (and they do), the credit card holder might not even be aware of it. To avoid any easily _avoidable downtime_ in the services, the responsibility of the running costs should be where the direct interest for keeping the service up is - the Client.
