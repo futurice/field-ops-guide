@@ -10,6 +10,7 @@
 [Download single-page PDF here](field-ops-guide.pdf) for convenient on-screen reading.
 
 ## Design criteria
+
 - helps save human lives
 - fits your pocket: not too thick, not too rigid (~A6 size)
 - combines a guide and a notebook in one, making it multi-purpose
