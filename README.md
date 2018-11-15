@@ -7,7 +7,7 @@
 
 <img src="https://github.com/futurice/field-ops-guide/raw/master/field-ops-guide-at-hand.jpg" alt="The Futurice Field Ops Guide" title="The Futurice Field Ops Guide!" width="300">
 
-[Download single-page PDF](field-ops-guide.pdf) for convenient on-screen reading.
+[Download single-file PDF](field-ops-guide.pdf) for convenient on-screen reading.
 
 ## Design criteria
 
