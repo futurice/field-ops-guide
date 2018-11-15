@@ -1,4 +1,4 @@
-≤# Field Ops Guide
+# Field Ops Guide
 
 ## Mission Briefing
 
