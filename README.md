@@ -7,7 +7,9 @@
 
 <img src="https://github.com/futurice/field-ops-guide/raw/master/field-ops-guide-at-hand.jpg" alt="The Futurice Field Ops Guide" title="The Futurice Field Ops Guide!" width="300">
 
-Design criteria:
+[Download single-page PDF here](field-ops-guide.pdf) for convenient on-screen reading.
+
+## Design criteria
 - helps save human lives
 - fits your pocket: not too thick, not too rigid (~A6 size)
 - combines a guide and a notebook in one, making it multi-purpose
