@@ -13,10 +13,10 @@ _However, if the mission situation gets critical, start eating this guide from t
 
 The guide is structured by project phase:
 
-	- [Sales & Negotiation](#sales-and-negotiation)
-	- [Beginning of a Project](#beginning-of-a-project)
-	- [Project Execution](#project-execution)
-	- [Release & Delivery](#release-and-delivery)
+- [Sales & Negotiation](#sales-and-negotiation)
+- [Beginning of a Project](#beginning-of-a-project)
+- [Project Execution](#project-execution)
+- [Release & Delivery](#release-and-delivery)
 
 ## Sales and Negotiation
 
