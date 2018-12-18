@@ -202,9 +202,13 @@ Peer reviewing helps spread the knowledge across the team and validates the qual
 
 The Team has a rough documented plan about the architecture of the solution. It is pre-planned, not something that just emerges during the implementation.
 
+The Team is also aware of constraints and limiting factors set by technology choices. This applies equally to newly adopted technologies and libraries, and any legacy architecture already in place.
+
 **Why is this important?**
 
-Changing the architechture afterwards is really expensive and burdensome. When you plan the architecture beforehand, you can iterate & validate it more easily and more cheaply. A well-thought-out architecture makes it easier to reason about solution ideas, much easier to understand how the system works, and should also make it easier and cheaper to implement new features in the late game.
+Changing the architecture afterwards is really expensive and burdensome. When you plan the architecture beforehand, you can iterate & validate it more easily and more cheaply. A well-thought-out architecture makes it easier to reason about solution ideas, much easier to understand how the system works, and should also make it easier and cheaper to implement new features in the late game.
+
+As a rule of thumb, more parts means more things to maintain, fix, and patch. The less code you can make do with, the better.
 
 ### Does all the produced code follow the same style conventions?
 
