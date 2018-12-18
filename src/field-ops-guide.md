@@ -11,6 +11,13 @@ _In the beginning of a mission, check all the items on this list, succeed and li
 
 _However, if the mission situation gets critical, start eating this guide from the first section towards the last. Just remember to read & comprehend the pages before consuming them._
 
+The guide is structured by project phase:
+
+	- [Sales & Negotiation](#sales-and-negotiation)
+	- [Beginning of a Project](#beginning-of-a-project)
+	- [Project Execution](#project-execution)
+	- [Release & Delivery](#release-and-delivery)
+
 ## Sales and Negotiation
 
 ### Have the proposal scope & estimates been validated by the experts in that field?
@@ -43,7 +50,7 @@ It is proven (not only by the Client) that the end user has the problem we think
 
 **Why is this important?**
 
-If it seems that doing this project would not create value for the Client, _we have to have the courage to say no_ to the money offered and to try to find an actual problem worth solving. Doing this will strengthen the partnership in the long run.
+One of our strengths is that we critically challenge our clients and their ideas for projects. If it seems that doing this project would not create value for the Client, _we need to have the courage to say no_ to the money offered and to try to find an actual problem worth solving. Doing this will strengthen the partnership in the long run.
 
 If the problem is not an actual problem for the end users, doing the project is a total waste and money is best used elsewhere. If the value of the solution is smaller than the cost of solving it, it does not make sense to allocate time & money to the project. Remember to _Ask why!_
 
