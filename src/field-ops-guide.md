@@ -1,6 +1,7 @@
 ---
 title: "Field Ops Guide"
 author: "Futurice"
+license: CC BY-SA 4.0
 ---
 
 # Field Ops Guide
@@ -303,3 +304,41 @@ When active project development mode is over, all running expenses are handled d
 Not only might charges like these annually generate thousands of euros worth of expenses, but manually proxying them to another party to be paid also causes administrative overhead.
 
 When credit cards expire (and they do), the credit card holder might not even be aware of it. To avoid any easily _avoidable downtime_ in the services, the responsibility of the running costs should be where the direct interest for keeping the service up is - the Client.
+
+
+
+# Appendix: Checklist
+
+**Sales and Negotiation**
+
+[] Have the proposal scope & estimates been validated by the experts in that field?
+[] Does everyone understand what are the expected Deliverable(s)?
+[] Has it been validated that the problem is actually worth solving?
+[] Does everyone understand the project contract model?
+[] Does everyone have a shared assumption of the recognizable major risks in the project?
+
+**Beginning of a Project**
+
+[] Does _everyone_ know why we are doing this project?
+[] Does everyone understand their role in the project?
+[] Does everyone know where project tasks are tracked and how progress is updated?
+[] Are communication channels established between stakeholders?
+
+**Project Execution**
+
+[] Does everyone know possible hard deadlines & why they exist?
+[] Does everyone know how much time & budget is left?
+[] Does the Team have a reasoned estimate about the remaining amount of work?
+[] Does the Team continuously write, update and run tests?
+[] Are the work contributions systematically peer reviewed?
+[] Does the Team have a documented plan for the system architecture?
+[] Does all the produced code follow the same style conventions?
+[] Does everyone have the same situation awareness?
+[] Can a new team member get started without help from current project team?
+
+**Release and Delivery**
+
+[] Have all the relevant technical information been documented and accessible to the Client?
+[] Is it clear who is in charge of operating the system?
+[] Does someone get an automatic notification if something is wrong with the live system?
+[] Are all the running expenses handled by the Client?
