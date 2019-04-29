@@ -40,9 +40,9 @@ The work started as part of the Tammerforce Tech Vision Working Group in late 20
 
 The content was compiled and written by [Miro Nieminen](https://github.com/miro), Antti Partanen, [Sakari Hyöty](https://github.com/shyoty) and [Mike Arvela](https://github.com/mieky), with additional ideas and feedback gathered from colleagues.
 
-The first pilot print (2018-10) was compiled by Mike and ordered from bookblock.com by Ella Eiranto. Ella also did all the hard design work for getting it to look superb.
+Ella Eiranto is the one who made it look and feel superb. In addition to designing the visual style for the Guide, Ella also did all the work getting the booklet printed.
 
-Also thanks for the support to Kalle Aaltonen, Kari-Pekka Koljonen, Jari Suksi, Riku Valtasola & Osmo Haapaniemi and all the others for their valuable input.
+Also thanks for the support to Kalle Aaltonen, Kari-Pekka Koljonen, Jari Suksi, Riku Valtasola & Osmo Haapaniemi, and all the others for their valuable input.
 
 ## How to convert to epub
 
@@ -56,13 +56,7 @@ To further convert EPUB to MOBI, run [kindlegen](https://www.amazon.com/gp/featu
 
 ## How to order
 
-These were the specs used to order the booklets from bookblock.com. We did a pilot batch of 150 copies to get initial feedback and feel for the printing quality.
-
-Find the contents used in the order in [bookblock-print-2018-10](bookblock-print-2018-10).
-
-![Bookblock pilot order specs](https://github.com/futurice/field-ops-guide/raw/master/bookblock-order-specs-2018-10.png "The order made to bookblock.com on October 2018")
-
-For the next order, it might make sense to try a soft cover binding and a thicker 100g paper, which will increase the price a bit. If a rubber band gets added on the cover, the cover elements need to be tweaked accordingly.
+See [src/print](src/print) for specs used for recent orders, as well as Illustrator-editable PDF source files.
 
 ## Contributing
 
