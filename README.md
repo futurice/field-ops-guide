@@ -44,7 +44,7 @@ Ella Eiranto is the one who made it look and feel superb. In addition to designi
 
 Also thanks for the support to Kalle Aaltonen, Kari-Pekka Koljonen, Jari Suksi, Riku Valtasola & Osmo Haapaniemi, and all the others for their valuable input.
 
-## How to convert to epub
+## How to convert to EPUB
 
 To convert Markdown to EPUB, run [pandoc](https://pandoc.org/) with something like this:
 
